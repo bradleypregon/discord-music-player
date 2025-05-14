@@ -1,5 +1,5 @@
 {
-  "name": "@jadestudios/discord-music-player",
+  "name": "@uhhbradley/discord-music-player",
   "version": "9.1.1-az30",
   "description": "Complete framework to facilitate music commands using discord.js v13",
   "main": "dist/index.js",
@@ -29,9 +29,9 @@
   "author": "thenerdoflight",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.9.0",
-    "@discordjs/voice": "^0.17.0",
-    "@distube/ytdl-core": "^4.15.1",
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.18.0",
+    "@distube/ytdl-core": "^4.16.10",
     "@distube/ytsr": "^2.0.4",
     "axios": "^1.7.7",
     "axios-retry": "^4.5.0",
@@ -55,7 +55,7 @@
     "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.12.0",
     "assert-diff": "^3.0.3",
-    "discord.js": "^14.14.1",
+    "discord.js": "^14.19.3",
     "eslint": "^8.54.0",
     "jest": "^27.0.6",
     "jsdoc-babel": "^0.5.0",
